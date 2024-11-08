@@ -4,14 +4,15 @@ The compressor setup described was constructed as part of my bachelor's thesis a
 gas-filled hollow-core fiber," Opt. Lett. 47, 5865-5868 (2022)
  
 It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden the spectrum of a Yb:KGW laser from Pharos (center wavelength: 1030 nm, pulse duration 150 fs, 6 W) by self-phase modulation. We checked the Fourier transform limit pulse duration by inverse Fourier transforming the wavelength-dependent intensity data from the frequency domain to the time domain to obtain the FWHM of the intensity, which is the most common definition of pulse duration. The time-domain FWHM of the intensity was 8.91 fs.
-![spectra](https://github.com/user-attachments/assets/d56808f9-6d11-428b-9e61-e7613f694baa)
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d56808f9-6d11-428b-9e61-e7613f694baa" width="600">
   <br>
   <em>Measured spectra: The corresponding pressure in the vessel and the power measured at the exit window. The input power was around 5.47 W</em>
 </p>
+
+
+![iFFT_I](https://github.com/user-attachments/assets/8cb8a2ef-0e3d-4c3d-bc1a-aeede7eeac41)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6664a2ef-ced7-4b37-81d6-823ca91b7d04" width="600">
