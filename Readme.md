@@ -11,11 +11,8 @@ It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden 
   <em>Measured spectra: The corresponding pressure in the vessel and the power measured at the exit window. The input power was around 5.47 W</em>
 </p>
 
-
-![iFFT_I](https://github.com/user-attachments/assets/8cb8a2ef-0e3d-4c3d-bc1a-aeede7eeac41)
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6664a2ef-ced7-4b37-81d6-823ca91b7d04" width="600">
+  <img src="https://github.com/user-attachments/assets/8cb8a2ef-0e3d-4c3d-bc1a-aeede7eeac41" width="600">
   <br>
   <em>Fourier transform limit pulse duration</em>
 </p>
