@@ -32,6 +32,8 @@ https://doi.org/10.1080/23746149.2020.1845795, (2020)
 
 You can find most of the parts I used in my plan as 3D models suitable for the CAD program of your choice at https://vacuum-shop.com/shop/de_DE/.
 
+The plans were uploaded in two separate folders, one containing .itp files and the other containing .step files. Each folder contains a file named "full_vessel," which represents the assembled pressure vessel. 
+
 For more information, have a look at my bachelors thesis and feel free to ask questions. 
 
 
