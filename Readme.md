@@ -5,6 +5,7 @@ gas-filled hollow-core fiber," Opt. Lett. 47, 5865-5868 (2022)
  
 It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden the spectrum of a Yb:KGW laser from Pharos (center wavelength: 1030 nm, pulse duration 150 fs, 6 W) by self-phase modulation. We checked the Fourier transform limit pulse duration by inverse Fourier transforming the wavelength-dependent intensity data from the frequency domain to the time domain to obtain the FWHM of the intensity, which is the most common definition of pulse duration. The time-domain FWHM of the intensity was 8.91 fs.
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d56808f9-6d11-428b-9e61-e7613f694baa" width="600">
   <br>
@@ -16,7 +17,7 @@ It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden 
   <br>
   <em>Fourier transform limit pulse duration</em>
 </p>
-hello
+
 # Considerations
 The pressure vessel itself is designed to withstand pressures up to 25 bar. While the CF components could withstand much higher pressures, the critical part is the windows.
 I used BK7 with a thickness of 2 mm and a diameter of 12 mm. If you want to use pressures ecceeding 25 bar you could do a quick calculation to make sure that the windows will withstand the pressure. Suitable formulas can be found online, for example at https://www.crystran.com/media/wysiwyg/Datasheets/design-of-pressure-windows_1.pdf.
