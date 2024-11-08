@@ -8,7 +8,7 @@ It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden 
 
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/user-attachments/assets/d56808f9-6d11-428b-9e61-e7613f694baa" width="600">
   <br>
   <em>Measured spectra: The corresponding pressure in the vessel and the power measured at the exit window. The input power was around 5.47 W</em>
 </p>
