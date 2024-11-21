@@ -1,5 +1,5 @@
 # Stretched-hollow-core-fiber-pulse-compressor
-The compressor setup described was constructed as part of my bachelor's thesis under the supervision of Marcus Ossiander at the Institute for Experimental Physics (IEP) of the TU Graz. The setup is similar to those constructed by Z. Pi, H. Y. Kim, and E. Goulielmakis and a pulse compressor that already perviously constructed at the IEP by Hana Hampel.
+The compressor setup described was constructed as part of my bachelor's thesis under the supervision of Marcus Ossiander at the Institute for Experimental Physics (IEP) of the TU Graz. The setup is similar to those constructed by Z. Pi, H. Y. Kim, and E. Goulielmakis and a pulse compressor that already perviously was constructed at the IEP by Hana Hampel.
 >Z. Pi, H. Y. Kim, and E. Goulielmakis, "Petahertz-scale spectral broadening and few-cycle compression of Yb:KGW laser pulses in a pressurized, 
 gas-filled hollow-core fiber," Opt. Lett. 47, 5865-5868 (2022)
  
@@ -19,10 +19,10 @@ It uses a high-pressure Ne-filled stretched hollow-core silica fiber to broaden 
 </p>
 
 # Considerations
-The pressure vessel itself is designed to withstand pressures up to 25 bar. While the CF components could withstand much higher pressures, the critical part is the windows.
+The pressure vessel itself is designed to withstand pressures up to 25 bar. While the CF components could withstand much higher pressures, the critical parts are the windows.
 We used BK7 with a thickness of 2 mm and a diameter of 12 mm. If you want to use pressures ecceeding 25 bar you could do a quick calculation to make sure that the windows will withstand the pressure. Suitable formulas can be found online, for example at https://www.crystran.com/media/wysiwyg/Datasheets/design-of-pressure-windows_1.pdf.
  
-Also consider an appropriate distance between the focal point at the beginning of the fiber and the entrance window, depending on the laser and focusing optics you are using, to prevent the laser from destroying the window. For this setup, 45 cm should work.
+Also consider a appropriate distance between the focal point at the beginning of the fiber and the entrance window, depending on the laser and focusing optics you are using, to prevent the laser from destroying the window. For this setup, 45 cm should work.
  
 The exit window is oriented at the Brewster angle corresponding to the refractive index of the glass and the center wavelength of the laser. In our first approach, we also used a Brewster entrance window - which is probably even slightly worse than a window oriented perpendicular to the laser beam, due to the offset the beam gets as it propagates through the glass. I'll update the plans as we learn what works best.
 
@@ -30,9 +30,9 @@ To improve your coupling efficiency, it is important to match the beam waist rad
 >T. Nagy, P. Simon and L. Veisz, "High-energy few-cycle pulses: post-compression techniques", Advances in Physics: X, 6(1), 
 https://doi.org/10.1080/23746149.2020.1845795, (2020)
 
-You can find most of the parts I used in my plan as .stp models suitable for the CAD program of your choice at https://vacuum-shop.com/shop/de_DE/. Many thanks at this point to Pfeiffer Vacuum for allowing us to use the plans.
+You can find most of the parts I used in my plan as .stp-models suitable for the CAD program of your choice at https://vacuum-shop.com/shop/de_DE/. Many thanks at this point to Pfeiffer Vacuum for allowing us to use their step-files.
 
-The plans were uploaded in two separate folders, one containing .itp files (used by Autodesk Inventor) and the other containing .stp files. Each folder contains a file named "full_vessel," which contains a plan of the assembled pressure vessel. 
+The plans were uploaded in two separate folders, one containing .itp-files (used by Autodesk Inventor) and the other containing .stp-files. Each folder contains a file named "full_vessel," which contains a plan of the assembled pressure vessel. 
 
 For more information, have a look at my bachelors thesis and feel free to ask questions. 
 
