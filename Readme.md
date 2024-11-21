@@ -18,7 +18,7 @@ It uses a high-pressure Ne-filled stretched hollow-core fused silica fiber to br
   <em>Fourier transform limited pulse duration</em>
 </p>
 
-# Considerations
+# Pressure Vessel Considerations
 The pressure vessel can withstand pressures up to 25 bar (with a safety factor of 2); the critical parts are the windows.
 We use 2 mm-thick BK7 windows with a free aperture of 12 mm. Pressures exceeding 25 bar require a calculation to ensure the windows will withstand the pressure. Suitable formulas are, e.g., found here https://www.crystran.com/media/wysiwyg/Datasheets/design-of-pressure-windows_1.pdf.
  
@@ -26,6 +26,7 @@ An appropriate distance between the entrance and exit window and the entrance an
 
 In our first approach, we use Brewster angle windows to maximize transmission. Their handling is slightly harder than that of a window oriented perpendicular to the laser beam, due to an offset the beam experiences as it propagates through the glass. We will update the plans as we learn what works best.
 
+# Fiber Considerations
 To improve coupling efficiency, it is important to match the beam waist radius (w) to the bore radius (a) of the fiber. The ideal beam waist can be calculated using the following formula: w ≈ 0.64 * a 
 >T. Nagy, P. Simon and L. Veisz, "High-energy few-cycle pulses: post-compression techniques", Advances in Physics: X, 6(1), 
 https://doi.org/10.1080/23746149.2020.1845795, (2020)
