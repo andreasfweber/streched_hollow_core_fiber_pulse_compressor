@@ -14,8 +14,9 @@ BILD VOM COMPRESSOR
   <em>Measured output spectra and transmitted power vs. neon pressure. The input power was ~5.5 W.</em>
 </p>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cb8a2ef-0e3d-4c3d-bc1a-aeede7eeac41" width="600">
+  <img src="https://github.com/user-attachments/assets/86961dcd-ef2a-4f07-a293-535d65e2c267" width="600">
   <br>
   <em>Fourier transform limited pulse duration.</em>
 </p>
@@ -28,10 +29,19 @@ An appropriate distance between the entrance and exit window and the entrance an
 
 In our first approach, we use Brewster angle windows to maximize transmission. Their handling is slightly harder than that of a window oriented perpendicular to the laser beam, due to an offset the beam experiences as it propagates through the glass. We will update the plans as we learn what works best.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edd0fb60-0807-45a9-a198-e88b30f126b0" width="900">
+  <br>
+  <em>3D model of the pressure vessel.</em>
+</p>
+
+
 # Fiber Considerations
-To improve coupling efficiency, it is important to match the beam waist radius (w) to the bore radius (a) of the fiber. The ideal beam waist can be calculated using the following formula: w ≈ 0.64 * a 
+To improve coupling efficiency, it is important to match the beam waist radius (w) to the bore radius (a) of the fiber. The ideal beam waist can be calculated using the following formula: w ≈ 0.64 * a. 
 >T. Nagy, P. Simon and L. Veisz, "High-energy few-cycle pulses: post-compression techniques", Advances in Physics: X, 6(1), 
 https://doi.org/10.1080/23746149.2020.1845795, (2020)
+
+The utilized fiber was a stretched molex TSP250794 (bore diameter: 250 μm, outer diameter: 794 μm, length: 1.1 m), which was mounted in an aluminum profile.
 
 # Repository Structure
 This repository contains equivalent drawings of the compressor in .stp and in .itp format (used by Autodesk Inventor). Each folder contains a file named "full_vessel," which contains the assembled structure. 
@@ -39,6 +49,6 @@ This repository contains equivalent drawings of the compressor in .stp and in .i
 For more information, have a look at my bachelors thesis and feel free to ask questions. 
 
 # License
-The contents of the folders ____ are licensed under the terms of the CC BY 4.0 Creative Commons Attribution 4.0 International (full license: https://creativecommons.org/licenses/by/4.0/ ).
+The contents of the folders components_cc_stp and components_cc_itp are licensed under the terms of the CC BY 4.0 Creative Commons Attribution 4.0 International (full license: https://creativecommons.org/licenses/by/4.0/ ).
 
-This open licensing does not apply to the CF components in the folders ____ which were provided by Pfeiffer Vacuum as .stp-models at https://vacuum-shop.com/shop/de_DE/ . We thank Pfeiffer Vacuum for allowing us to use their models.
+This open licensing does not apply to the CF components in the folders componetns_PfeifferVacuum_stp and components_PfeifferVacuum_itp which were provided by Pfeiffer Vacuum as .stp-models at https://vacuum-shop.com/shop/de_DE/ . We thank Pfeiffer Vacuum for allowing us to use their models.
