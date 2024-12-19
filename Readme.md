@@ -6,7 +6,13 @@ The compressor setup described was constructed as part of my bachelor's thesis a
  
 It uses a high-pressure Ne-filled stretched hollow-core fused silica fiber to broaden the spectrum of a Yb:KGW Pharos laser (Light Conversion, center wavelength: 1030 nm, pulse duration: 150 fs, repetition rate: 6 kHz, average power: 6 W) via self-phase modulation. The Fourier limited pulse duration suggested by the output spectrum is 9 fs (intensity FWHM).
 
-BILD VOM COMPRESSOR
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41ae047a-e041-4681-b4ed-95bda4435030" width="400">
+  <br>
+  <em>On the left hand side of this image, the vessel housing of the other compressor is visible.
+Alongside to it is the stretched hollow-core fiber compressor, contained within a significantly
+smaller vessel.</em>
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d56808f9-6d11-428b-9e61-e7613f694baa" width="600">
