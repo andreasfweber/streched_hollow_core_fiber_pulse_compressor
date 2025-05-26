@@ -33,7 +33,9 @@ We use 2 mm-thick BK7 windows with a free aperture of 12 mm. Pressures exceeding
  
 An appropriate distance between the entrance and exit window and the entrance and exit of the fiber (focal point) prevents the laser from destroying the windows. For our laser setup, 45 cm work. This depends on the laser pulse parameters and focusing optics used.
 
-In our first approach, we use Brewster angle windows to maximize transmission. Their handling is slightly harder than that of a window oriented perpendicular to the laser beam, due to an offset the beam experiences as it propagates through the glass. We will update the plans as we learn what works best.
+In our first approach, we use Brewster angle windows to maximize transmission. Their handling is slightly harder than that of a window oriented perpendicular to the laser beam, due to an offset the beam experiences as it propagates through the glass. Both designs are functional; however, perpendicular windows with anti-reflective coatings have proven to be more practical and easier to implement. Owing to the broad spectral width, Brewster angle windows are still employed for the vessel's exit window to minimize reflection losses effectively.
+
+Additionally, we constructed slightly larger housings to accommodate aluminum extrusions with a greater diameter, as thinner profiles often exhibit deviations from straightness.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/edd0fb60-0807-45a9-a198-e88b30f126b0" width="900">
